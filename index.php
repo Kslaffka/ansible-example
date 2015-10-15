@@ -1,6 +1,5 @@
 <?php
 
-echo "Webhook works!";
-echo "attempt 2";
+echo "I think, that webhooks are working!";
 
 ?>
